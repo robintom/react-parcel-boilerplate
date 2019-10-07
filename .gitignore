@@ -83,7 +83,10 @@ typings/
 
 # gatsby files
 .cache/
-public
+
+#disabling this is to keep index.html in public folder
+#spublic
+
 
 # vuepress build output
 .vuepress/dist
